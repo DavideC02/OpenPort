@@ -60,15 +60,6 @@ Scansphere mette insieme più moduli che lavorano in modo coordinato per mappare
 
 ---
 
-## ⚙️ Requisiti e installazione
-- Python 3.8+
-- Scapy
-- PyQt5
-
-Installa tutto con:
-```bash
-pip install scapy PyQt5
-
 ## ⚠️ Avvertenze legali e di sicurezza
 
 Usa Scansphere solo su reti e dispositivi su cui hai autorizzazione esplicita.
@@ -78,3 +69,14 @@ Scansionare reti altrui senza permesso può essere illegale.
 Lo strumento è stato creato a scopo educativo e di test.
 
 L’autore non è responsabile per eventuali abusi o usi impropri.
+
+---
+
+## ⚙️ Requisiti e installazione
+- Python 3.8+
+- Scapy
+- PyQt5
+
+Installa tutto con:
+```bash
+pip install scapy PyQt5
