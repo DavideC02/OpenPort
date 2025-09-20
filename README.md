@@ -4,7 +4,7 @@ Scansphere è uno strumento semplice ma efficace per esplorare una rete: individ
 
 ---
 
-## 📌 Cosa fa Scansphere (spiegazione dettagliata)
+## 📌 Cosa fa Scansphere
 
 Scansphere mette insieme più moduli che lavorano in modo coordinato per mappare rapidamente uno spazio di indirizzi IP e le porte esposte. Di seguito trovi una spiegazione passo-passo, in linguaggio discorsivo e pratico, di **cosa** succede quando lanci una scansione.
 
