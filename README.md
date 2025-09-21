@@ -77,6 +77,4 @@ L’autore non è responsabile per eventuali abusi o usi impropri.
 - Scapy
 - PyQt5
 
-Installa tutto con:
-```bash
-pip install scapy PyQt5
+Realizzato a Settembre 2023
